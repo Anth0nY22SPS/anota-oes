@@ -14,3 +14,9 @@ list<tipo> nome = new list<tipo>();
 .indexOf() -> coloca o item que a pessoa quer e ele retorna a posição que ele está
 .String() -> retorna um String com Objeto : dentro do objeto recrever a função
 
+
+// for para lista os produtodos dentro de uma lista
+for(int arrayNumero : nu){
+    
+    System.out.println(nu.get(1))
+}
