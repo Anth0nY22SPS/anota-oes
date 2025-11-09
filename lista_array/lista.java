@@ -2,9 +2,10 @@
 
 Int[] arrayNumero = new int[5] // o 5 é o numero que pode ser armazenado dentro dela
 
-// Lista aceita qualquer objeto tem um limite de 10 espaço
 
-list<tipo> nome = new list<tipo>();
+// Lista aceita qualquer OBJETOS tem um limite de 10 espaço
+
+list<tipoObjeto> nome = new list<>();
 .get(0) -> colocar a um numero ele retorna um item da lista
 .add()   -> adiciona na lista
 .remove()-> remove da lista
@@ -15,8 +16,8 @@ list<tipo> nome = new list<tipo>();
 .String() -> retorna um String com Objeto : dentro do objeto recrever a função
 
 
-// for para lista os produtodos dentro de uma lista
+// for-each para lista os produtodos dentro de uma lista
 for(int arrayNumero : nu){
     
-    System.out.println(nu.get(1))
+    System.out.println(nu)
 }
