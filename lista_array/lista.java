@@ -5,7 +5,7 @@ Int[] arrayNumero = new int[5] // o 5 é o numero que pode ser armazenado dentro
 
 // Lista aceita qualquer OBJETOS tem um limite de 10 espaço
 
-list<tipoObjeto> nome = new list<>();
+List<tipoObjeto> nome = new ArrayList<>();
 .get(0) -> colocar a um numero ele retorna um item da lista
 .add()   -> adiciona na lista
 .remove()-> remove da lista
