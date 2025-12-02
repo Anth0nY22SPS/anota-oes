@@ -10,4 +10,5 @@ git branch -d "" -> deleta a branch
 git checkout "" -> para entra na branch
 git checkout -b "" -> ele cria um branch e entra nela direto
 
-git merge "" -> 
+git merge "" -> para mesclar o arquivo na branch main
+
