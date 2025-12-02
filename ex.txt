@@ -1,0 +1,13 @@
+Para desfazer um commit -> git rm --cached <nome do arquivo>
+informação sobre o commit feito hora, data e id-> git log
+
+git restore <file> -> para descarta a modificação
+
+
+git branch "" -> criando um branch
+git branch -d "" -> deleta a branch
+
+git checkout "" -> para entra na branch
+git checkout -b "" -> ele cria um branch e entra nela direto
+
+git merge "" -> 
